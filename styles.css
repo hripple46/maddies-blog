@@ -38,6 +38,7 @@ h2 {
     width: 100%;
     background-image: url(../maddies-blog/assets/png/dog_maddie.png);
     background-position: 0% 80%;
+    background-size: cover;
 }
 
 .main {
