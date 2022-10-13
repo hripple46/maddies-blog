@@ -16,11 +16,15 @@ h3 {
 .header {
     background-color: lightblue;
     overflow: auto;
+    position: fixed;
+    width: 100%;
 }
 
 h1 {
     color: antiquewhite;
-    font-size: 3em;
+    font-size: 5em;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
     
     
@@ -59,6 +63,13 @@ h2 {
     max-width: 100%;
     min-width: 400px;
 }
+
+.titlebox {
+    padding-top: 15%;
+    padding-left: 2em;
+}
+
+
 
 
 
